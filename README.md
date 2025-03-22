@@ -17,7 +17,7 @@ This batch script allows you to quickly clone, navigate, and run the `dirr` scri
    ![image](https://github.com/user-attachments/assets/f9bd82b0-2b19-4c1c-9f6c-29fceacff012)
 
 4. **Add the path to edit the system environment variables***
-5. 
+
 ![image](https://github.com/user-attachments/assets/c4529d3f-c0cf-41b8-b2c2-567f9a6fcd5f)
 
 ![image](https://github.com/user-attachments/assets/44e0bdc7-8f04-4b60-89c4-67fd52f62655)
@@ -27,9 +27,10 @@ This batch script allows you to quickly clone, navigate, and run the `dirr` scri
 ![image](https://github.com/user-attachments/assets/ae3d2034-b79b-42d4-b8f5-e1a9f2f2f2fc)
 
 
-7. Verify the script works by running:
+5. Verify the script works by running:
    ```
    dirr
+
 ![image](https://github.com/user-attachments/assets/3fcea57b-4e2f-4c76-ab4e-00554b394d53)
 
    
