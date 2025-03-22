@@ -1,6 +1,7 @@
 # Clean-Dir Script
 
-![Clean-Dir]![Screenshot_1](https://github.com/user-attachments/assets/0c191b7d-3576-4e50-8c08-8a82f240956b)
+![Clean-Dir]![image](https://github.com/user-attachments/assets/f4e4f578-afd5-419c-bf6c-3ce6616eb724)
+
 
 
 This batch script allows you to quickly clone, navigate, and run the `dirr` script with ease. It simplifies the setup by adding the script to your system's PATH.
