@@ -17,7 +17,7 @@ This batch script allows you to quickly clone, navigate, and run the `dirr` scri
 
 1. **Clone the repository** to your local machine:
    ```
-   git clone https://github.com/Nzthaan/```
+   git clone https://github.com/Nzthaan/
 2. **Copy** the path of directory
 
 3. **Add the path to edit the system environment variables***
@@ -26,7 +26,7 @@ This batch script allows you to quickly clone, navigate, and run the `dirr` scri
 
 5. Verify the script works by running:
    ```
-   dirr```
+   dirr
 
 ## Repository Information
 This repository contains a batch script that streamlines the process of adding the dirr command to your system and verifying it works.
