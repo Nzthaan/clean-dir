@@ -1,6 +1,6 @@
 # Clean-Dir Script
 
-![Clean-Dir]![image](https://github.com/user-attachments/assets/f4e4f578-afd5-419c-bf6c-3ce6616eb724)
+[image](https://github.com/user-attachments/assets/f4e4f578-afd5-419c-bf6c-3ce6616eb724)
 
 
 
