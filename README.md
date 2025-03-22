@@ -1,6 +1,7 @@
 # Clean-Dir Script
 
-[image](https://github.com/user-attachments/assets/f4e4f578-afd5-419c-bf6c-3ce6616eb724)
+![image](https://github.com/user-attachments/assets/91a8a226-811a-4bf6-8324-a15f23229fa8)
+
 
 
 
@@ -21,7 +22,6 @@ This batch script allows you to quickly clone, navigate, and run the `dirr` scri
 2. **Copy** the path of directory
 
 3. **Add the path to edit the system environment variables***
-4. 
 ![image](https://github.com/user-attachments/assets/c4529d3f-c0cf-41b8-b2c2-567f9a6fcd5f)
 
 5. Verify the script works by running:
