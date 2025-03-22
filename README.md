@@ -7,26 +7,28 @@
 
 This batch script allows you to quickly clone, navigate, and run the `dirr` script with ease. It simplifies the setup by adding the script to your system's PATH.
 
-## What the Script Does
-
-- **Clone** the repository containing the script.
-- **Navigate** to the directory where the script is located.
-- **Add** the script folder to the system `PATH` for easy access.
-- **Run** the script using a simple command: `dirr`.
-
 ## How to Use
 
 1. **Clone the repository** to your local machine:
    ```
    git clone https://github.com/Nzthaan/
+   
 2. **Copy** the path of directory
+   ![image](https://github.com/user-attachments/assets/f9bd82b0-2b19-4c1c-9f6c-29fceacff012)
 
-3. **Add the path to edit the system environment variables***
+4. **Add the path to edit the system environment variables***
 ![image](https://github.com/user-attachments/assets/c4529d3f-c0cf-41b8-b2c2-567f9a6fcd5f)
+![image](https://github.com/user-attachments/assets/44e0bdc7-8f04-4b60-89c4-67fd52f62655)
+![image](https://github.com/user-attachments/assets/56e9306a-d9a5-49e8-900a-d477f283784f)
+![image](https://github.com/user-attachments/assets/ae3d2034-b79b-42d4-b8f5-e1a9f2f2f2fc)
 
-5. Verify the script works by running:
+
+6. Verify the script works by running:
    ```
    dirr
+![image](https://github.com/user-attachments/assets/3fcea57b-4e2f-4c76-ab4e-00554b394d53)
+
+   
 
 ## Repository Information
 This repository contains a batch script that streamlines the process of adding the dirr command to your system and verifying it works.
